@@ -21,9 +21,8 @@
 
 ## **Installation**
 1. Open Termux and run:
-   ```bash
    pkg update -y && pkg install git -y
-   git clone https://your-repo-link/cykrna_suite.git
+   git clone https://github.com/Cykrna/sectool.git
    cd cykrna_suite
    chmod +x install_cykrna.sh
    ./install_cykrna.sh
